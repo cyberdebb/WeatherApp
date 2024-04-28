@@ -19,6 +19,9 @@ web-build/
 # Metro
 .metro-health-check*
 
+#program
+%ProgramData%
+
 # Env
 .env
 
