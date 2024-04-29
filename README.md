@@ -5,7 +5,7 @@ Welcome to the WeatherApp, a sleek and user-friendly application that provides r
 ## Features
 
 - Real-time weather updates
-- Daily forecasts and weekly overviews
+- Daily forecasts and weekly overviews   
 - Detailed meteorological data including temperature, humidity, and wind speed
 - Interactive maps with weather conditions
 - User-friendly interface with dynamic backgrounds that reflect current weather conditions
@@ -20,7 +20,6 @@ Before running the app, make sure you have the following installed:
 - Node.js
 - npm or Yarn
 - React Native CLI
-- Android Studio or Xcode (for emulator or real device testing)
 
 ### Installation
 
@@ -34,8 +33,15 @@ Before running the app, make sure you have the following installed:
    git clone https://github.com/cyberdebb/WeatherApp.git
 ```
 3. Navigate to the project directory and install dependencies
+```
    cd WeatherApp
    npm install
-4. Start the React Native server
+```
+5. Start the React Native server
+```
    npx react-native start
-
+```
+ou 
+```
+npm start
+```
