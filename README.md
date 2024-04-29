@@ -66,7 +66,7 @@ and
 ```
    npx react-native start
 ```
-ou 
+or 
 ```
 npm start
 ```
